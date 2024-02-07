@@ -39,6 +39,12 @@ async function getTopStories() {
             </div>
                     <div class="bottom">
                         <div class="infoBottom">
+                        <div class="details">
+                            <button><h4>JavaScript</h4></button>
+                            <p>12min read</p>
+                            <span>.</span>
+                            <p>Selected for you</p>
+                            </div>
                         </div>
                     </div>
                 </div>
